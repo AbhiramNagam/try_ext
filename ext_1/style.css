@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+*{
+    color: lime;
+}
+a{
+    display: block;
+    padding: 10px;
+}
